@@ -1,3 +1,5 @@
+<img>https://game-tecx.com/storage/img/gtx.png</img>
+
 <b>Aus dem Hause Game-Tec X Unsere erste Mod !</b>
  
 
