@@ -1,3 +1,6 @@
+<b>Aus dem Hause Game-Tec X Unsere erste Mod !</b>
+ 
+
 Diese Mod passt die ModSlots an ihrer Qualitätsstufe an
 
 Bedeutet: 
