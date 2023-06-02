@@ -1,4 +1,4 @@
-<img>https://game-tecx.com/storage/img/gtx.png</img>
+<img src="https://game-tecx.com/storage/img/gtx.png" alt="Game-Tec X-Logo mit einem Grünen Fuchs" />
 
 <b>Aus dem Hause Game-Tec X Unsere erste Mod !</b>
  
