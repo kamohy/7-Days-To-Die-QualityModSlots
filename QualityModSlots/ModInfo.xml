@@ -2,7 +2,7 @@
 <xml>
     <ModInfo>
         <Name value="QualityModSlots" />
-        <Description value="Increases Mod Slots based on Quality Tier." />
+        <Description value="Increases Mod Slots based on Quality Tier. Only for: Ammo, Armor, Tools" />
         <Author value="Kamohy" website="https://game-tecx.com"/>
         <Version value="1.0" />
     </ModInfo>
