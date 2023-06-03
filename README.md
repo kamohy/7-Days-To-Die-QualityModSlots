@@ -1,7 +1,7 @@
 <img src="https://game-tecx.com/storage/img/gtx.png" alt="Game-Tec X-Logo mit einem Grünen Fuchs" width="25%" high="25%"/>
 
 <b>Aus dem Hause Game-Tec X Unsere erste Mod !</b>
- 
+</br>Gebaut für: Alpha 20.7 
 
 Diese Mod passt die ModSlots an ihrer Qualitätsstufe an
 
@@ -13,5 +13,6 @@ Bedeutet:
  <li>StoneAxe Quality 4 = 4 Modifiktaions-slot</li>
  <li>StoneAxe Quality 5 = 5 Modifiktaions-slot</li>
  <li>StoneAxe Quality 6 = 6 Modifiktaions-slot</li>
-</ul>
+</ul></br>
+</br>
 Das ganze gilt für alle Waffen, Werkzeuge und Rüstungen
