@@ -2,4 +2,5 @@
     <set xpath="/items/item[starts-with(@name, 'meleeTool')]/effect_group/passive_effect[@name='ModSlots']/@value">1,2,3,4,5,6</set>
     <set xpath="/items/item[starts-with(@name, 'gun')]/effect_group/passive_effect[@name='ModSlots']/@value">1,2,3,4,5,6</set>
     <set xpath="/items/item[starts-with(@name, 'armor')]/effect_group/passive_effect[@name='ModSlots']/@value">1,2,3,4,5,6</set>
+    <set xpath="/items/item[starts-with(@name, 'meleeWpn')]/effect_group/passive_effect[@name='ModSlots']/@value">1,2,3,4,5,6</set>
 </configs>
