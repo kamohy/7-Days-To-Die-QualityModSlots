@@ -2,6 +2,7 @@
 
 <b>Aus dem Hause Game-Tec X Unsere erste Mod !</b>
 </br>Gebaut für: Alpha 20.7 
+</br>Funktioniert unter Alpha 21
 
 Diese Mod passt die ModSlots an ihrer Qualitätsstufe an
 
